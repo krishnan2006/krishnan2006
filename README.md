@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I'm Krishnan! 👋
 
-<!--
-**krishnan2006/krishnan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student | Embedded Systems & Software Development
 
-Here are some ideas to get you started:
+I'm an engineering student passionate about building practical solutions through software, embedded systems, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Exploring Embedded Systems and IoT
+- 💻 Programming with Python, C++, and Java
+- 🌱 Learning React, FastAPI, and AWS IoT
+- ⚡ Interested in AI/ML, automation, and connected devices
+- 🎯 Working towards becoming a versatile software and embedded developer
+
+### 🛠️ Technologies & Tools
+
+**Programming**
+
+Python · C · C++ · Java · JavaScript
+
+**Embedded & IoT**
+
+ESP32 · Arduino · CAN Communication · MQTT
+
+**Software & Tools**
+
+Git · GitHub · React · FastAPI · AWS IoT
+
+### 🚀 Featured Projects
+
+**Internship Finder**
+A React-based application for discovering, organizing, and tracking internship opportunities.
+
+[View Project](https://github.com/krishnan2006/React-mini-project1)
+
+**PolyTwin AI**
+An in-development Digital Twin platform for smart greenhouse monitoring and simulation.
+
+[View Project](https://github.com/krishnan2006/PolyTwin-AI)
+
+### 📈 My Developer Journey
+
+Learning, building, experimenting, and improving one project at a time.
+
+---
+
+⭐ Thanks for visiting my profile!
