@@ -26,10 +26,10 @@ Git · GitHub · React · FastAPI · AWS IoT
 
 ### 🚀 Featured Projects
 
-**Internship Finder**
+**Internship Finder**  
 A React-based application for discovering, organizing, and tracking internship opportunities.
 
-[View Project](https://github.com/krishnan2006/React-mini-project1)
+🌐 [Live Demo](https://internship-finder-beta.vercel.app) | 💻 [Source Code](https://github.com/krishnan2006/React-mini-project1)
 
 **PolyTwin AI**
 An in-development Digital Twin platform for smart greenhouse monitoring and simulation.
